@@ -1,0 +1,16 @@
+{
+  "name": "typescript-rollup-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^0.35.10",
+    "rollup-plugin-typescript": "^0.8.1"
+  }
+}
